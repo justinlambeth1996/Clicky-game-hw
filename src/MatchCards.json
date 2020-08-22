@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "image": "/Clicky-game-hw/images/sarah-gualtieri-tP6ETrtLBWA-unsplash (1).jpg",
+    "clicked": false
+  },
+  {
+  "id": 2,
+  "image": "/Clicky-game-hw/images/miguel-andrade-nAOZCYcLND8-unsplash.jpg",
+  "clicked": false
+  },
+  {
+  "id": 3,
+  "image": "/Clicky-game-hw/images/jess-bailey-VgCDU8K5l_E-unsplash.jpg",
+  "clicked": false
+  },
+  {
+  "id": 4,
+  "image": "/Clicky-game-hw/images/mae-mu-U1iYwZ8Dx7k-unsplash.jpg",
+  "clicked": false
+  },
+  {
+  "id": 5,
+  "image": "/Clicky-game-hw/images/kenny-timmer-H6NPHHWRZPw-unsplash.jpg",
+  "clicked": false
+  },
+  {
+  "id": 6,
+  "image": "/Clicky-game-hw/images/joanna-kosinska-4qujjbj3srs-unsplash.jpg",
+  "clicked": false
+  },
+  {
+  "id": 7,
+  "image": "/Clicky-game-hw/images/irene-kredenets-sV0KXYrb-5s-unsplash.jpg",
+  "clicked": false
+  },
+  {
+  "id": 8,
+  "image": "/Clicky-game-hw/images/heather-ford-1wheUKVAvd0-unsplash.jpg",
+  "clicked": false
+  },
+  {
+  "id": 9,
+  "image": "/Clicky-game-hw/images/giorgio-trovato-fczCr7MdE7U-unsplash.jpg",
+  "clicked": false
+  },
+  {
+  "id": 10,
+  "image": "/Clicky-game-hw/images/elena-koycheva-y-feJOQIBao-unsplash.jpg",
+  "clicked": false
+  },
+  {
+  "id": 11,
+  "image": "/Clicky-game-hw/images/charles-deluvio-yPI38imbQSI-unsplash.jpg",
+  "clicked": false
+  },
+  {
+  "id": 12,
+  "image": "/Clicky-game-hw/images/an_vision-gDPaDDy6_WE-unsplash.jpg",
+  "clicked": false
+  }
+]
